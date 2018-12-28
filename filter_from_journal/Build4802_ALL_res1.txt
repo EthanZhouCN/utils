@@ -1,0 +1,671 @@
+C,123441.00,A,3953.73536,N,11630.29022,E,0.000,,261218,,,A,V*1D
+UM220-IV NL G1B1 COM1
+PN 080101016200
+SN HX1001180500103
+HWVer V1.0
+FWVer R3.1.10.18Build4802
+Copyright (c), Unicore Communications Inc.
+All rights reserved.
+PN 080101016200
+SN HX1001180500103
+HWVer V1.0
+FWVer R3.1.10.18Build4802
+Copyright (c), Unicore Communications Inc.
+All rights reserved.
+UM220-IV NL G1B1 COM1
+PN 080101016200
+SN HX1001180500103
+HWVer V1.0
+FWVer R3.1.10.18Build4802
+Copyright (c), Unicore Communications Inc.
+All rights reserved.
+UM220-IV NL G1B1 COM1
+PN 080101016200
+SN HX1001180500103
+HWVer V1.0
+FWVer R3.1.10.18Build4802Copyright (c), Unicore Communications Inc.
+All rights reserved.
+
+UM220-IV NL G1B1 COM1
+PN 080101016200
+SN HX1001180500103
+HWVer V1.0
+FWVer R3.1.10.18Build4802
+Copyright (c), Unicore Communications Inc.
+All rights reserved.
+
+UM220-IV NL G1B1 COM1
+PN 080101016200
+SN HX1001180500103
+HWVer V1.0
+FWVer R3.1.10.18Build4802
+Copyright (c), Unicore Communications Inc.
+All rights reserved.
+
+UM220-IV NL G1B1 COM1
+PN 080101016200
+SN HX1001180500103
+HWVer V1.0
+FWVer R3.1.10.18Build4802
+Copyright (c), Unicore Communications Inc.
+All rights reserved.
+
+UM220-IV NL G1B1 COM1
+PN 080101016200
+SN HX1001180500103
+HWVer V1.0
+FWVer R3.1.10.18Build4802
+Copyright (c), Unicore Communications Inc.
+All rights reserved.
+UM220-IV NL G1B1 COM1
+PN 080101016200SN HX1001180500103
+HWVer V1.0
+FWVer R3.1.10.18Build4802
+Copyright (c), Unicore Communications Inc.
+All rights reserved.
+
+UM220-IV NL G1B1 COM1
+PN 080101016200
+SN HX1001180500103
+HWVer V1.0
+FWVer R3.1.10.18Build4802
+Copyright (c), Unicore Communications Inc.
+All rights reserved.
+
+UM220-IV NL G1B1 COM1
+PN 080101016200
+SN HX1001180500103
+HWVer V1.0
+FWVer R3.1.10.18Build4802
+Copyright (c), Unicore Communications Inc.
+All rights reserved.$GNRMC,130944.54,V,,,,,,,261218,,,N,V*1D
+
+UM220-IV NL G1B1 COM1
+PN 080101016200
+SN HX1001180500103
+HWVer V1.0
+FWVer R3.1.10.18Build4802
+Copyright (c), Unicore Communications Inc.
+All rights reserved.
+
+UM220-IV NL G1B1 COM1
+PN 080101016200
+SN HX1001180500103
+HWVer V1.0
+FWVer R3.1.10.18Build4802
+Copyright (c), Unicore Communications Inc.
+All rights reserved.
+
+UM220-IV NL G1B1 COM1
+PN 080101016200
+SN HX1001180500103
+HWVer V1.0
+FWVer R3.1.10.18Build4802
+Copyright (c), Unicore Communications Inc.
+All rights reserved.
+UM220-IV NL G1B1 COM1
+PN 080101016200
+SN HX1001180500103
+HWVer V1.0
+FWVer R3.1.10.18Build4802
+Copyright (c), Unicore Communications Inc.
+All rights reserved.
+UM220-IV NL G1B1 COM1
+PN 080101016200
+SN HX1001180500103
+HWVer V1.0
+FWVer R3.1.10.18Build4802
+Copyright (c), Unicore Communications Inc.
+All rights reserved.
+
+UM220-IV NL G1B1 COM1
+PN 080101016200
+SN HX1001180500103
+HWVer V1.0
+FWVer R3.1.10.18Build4802
+Copyright (c), Unicore Communications Inc.
+All rights reserved.
+
+UM220-IV NL G1B1 COM1
+PN 080101016200
+SN HX1001180500103
+HWVer V1.0
+FWVer R3.1.10.18Build4802
+Copyright (c), Unicore Communications Inc.
+All rights reserved.
+UM220-IV NL G1B1 COM1
+PN 080101016200
+SN HX1001180500103
+HWVer V1.0
+FWVer R3.1.10.18Build4802
+Copyright (c), Unicore Communications Inc.
+All rights reserved.$GNRMC,133623.85,V,,,,,,,261218,,,N,V*1C
+
+UM220-IV NL G1B1 COM1
+PN 080101016200
+SN HX1001180500103
+HWVer V1.0
+FWVer R3.1.10.18Build4802
+Copyright (c), Unicore Communications Inc.
+All rights reserved.
+
+UM220-IV NL G1B1 COM1
+PN 080101016200
+SN HX1001180500103
+HWVer V1.0
+FWVer R3.1.10.18Build4802
+Copyright (c), Unicore Communications Inc.
+All rights reserved.
+UM220-IV NL G1B1 COM1
+PN 080101016200
+SN HX1001180500103
+HWVer V1.0
+FWVer R3.1.10.18Build4802
+Copyright (c), Unicore Communications Inc.
+All rights reserved.
+
+UM220-IV NL G1B1 COM1
+PN 080101016200
+SN HX1001180500103
+HWVer V1.0
+FWVer R3.1.10.18Build4802
+Copyright (c), Unicore Communications Inc.
+All rights reserved.
+UM220-IV NL G1B1 COM1
+PN 080101016200
+SN HX1001180500103
+HWVer V1.0
+FWVer R3.1.10.18Build4802
+Copyright (c), Unicore Communications Inc.
+All rights reserved.
+
+UM220-IV NL G1B1 COM1
+PN 080101016200
+SN HX1001180500103
+HWVer V1.0FWVer R3.1.10.18Build4802
+Copyright (c), Unicore Communications Inc.
+All rights reserved.
+PN 080101016200
+SN HX1001180500103
+HWVer V1.0
+FWVer R3.1.10.18Build4802
+Copyright (c), Unicore Communications Inc.
+All rights reserved.
+UM220-IV NL G1B1 COM1
+PN 080101016200
+SN HX1001180500103
+HWVer V1.0
+FWVer R3.1.10.18Build4802
+Copyright (c), Unicore Communications Inc.
+All rights reserved.
+
+UM220-IV NL G1B1 COM1
+PN 080101016200
+SN HX1001180500103
+HWVer V1.0
+FWVer R3.1.10.18Build4802
+Copyright (c), Unicore Communications Inc.
+All rights reserved.
+UM220-IV NL G1B1 COM1
+PN 080101016200
+SN HX1001180500103
+HWVer V1.0
+FWVer R3.1.10.18Build4802
+Copyright (c), Unicore Communications Inc.
+All rights reserved.
+UM220-IV NL G1B1 COM1
+PN 080101016200
+SN HX1001180500103
+HWVer V1.0
+FWVer R3.1.10.18Build4802
+Copyright (c), Unicore Communications Inc.
+All rights reserved.
+PN 080101016200
+SN HX1001180500103
+HWVer V1.0
+FWVer R3.1.10.18Build4802
+Copyright (c), Unicore Communications Inc.
+All rights reserved.
+UM220-IV NL G1B1 COM1
+PN 080101016200
+SN HX1001180500103
+HWVer V1.0
+FWVer R3.1.10.18Build4802
+Copyright (c), Unicore Communications Inc.
+All rights reserved.
+UM220-IV NL G1B1 COM1
+PN 080101016200
+SN HX1001180500103
+HWVer V1.0
+FWVer R3.1.10.18Build4802
+Copyright (c), Unicore Communications Inc.
+All rights reserved.
+UM220-IV NL G1B1 COM1
+PN 080101016200
+SN HX1001180500103
+HWVer V1.0
+FWVer R3.1.10.18Build4802
+Copyright (c), Unicore Communications Inc.
+All rights reserved.
+UM220-IV NL G1B1 COM1
+PN 080101016200
+SN HX1001180500103
+HWVer V1.0
+FWVer R3.1.10.18Build4802
+Copyright (c), Unicore Communications Inc.
+All rights reserved.
+UM220-IV NL G1B1 COM1
+PN 080101016200
+SN HX1001180500103
+HWVer V1.0
+FWVer R3.1.10.18Build4802
+Copyright (c), Unicore Communications Inc.
+All rights reserved.
+UM220-IV NL G1B1 COM1
+PN 080101016200
+SN HX1001180500103
+HWVer V1.0
+FWVer R3.1.10.18Build4802
+Copyright (c), Unicore Communications Inc.
+All rights reserved.
+UM220-IV NL G1B1 COM1
+PN 080101016200
+SN HX1001180500103
+HWVer V1.0
+FWVer R3.1.10.18Build4802
+Copyright (c), Unicore Communications Inc.
+All rights reserved.
+UM220-IV NL G1B1 COM1
+PN 080101016200
+SN HX1001180500103
+HWVer V1.0
+FWVer R3.1.10.18Build4802
+Copyright (c), Unicore Communications Inc.
+All rights reserved.
+UM220-IV NL G1B1 COM1
+PN 080101016200
+SN HX1001180500103
+HWVer V1.0
+FWVer R3.1.10.18Build4802
+Copyright (c), Unicore Communications Inc.
+All rights reserved.
+UM220-IV NL G1B1 COM1
+PN 080101016200
+SN HX1001180500103
+HWVer V1.0
+FWVer R3.1.10.18Build4802
+Copyright (c), Unicore Communications Inc.
+All rights reserved.
+UM220-IV NL G1B1 COM1
+PN 080101016200
+SN HX1001180500103
+HWVer V1.0
+FWVer R3.1.10.18Build4802
+Copyright (c), Unicore Communications Inc.
+All rights reserved.
+UM220-IV NL G1B1 COM1
+PN 080101016200
+SN HX1001180500103
+HWVer V1.0
+FWVer R3.1.10.18Build4802
+Copyright (c), Unicore Communications Inc.
+All rights reserved.
+UM220-IV NL G1B1 COM1
+PN 080101016200
+SN HX1001180500103
+HWVer V1.0
+FWVer R3.1.10.18Build4802
+Copyright (c), Unicore Communications Inc.
+All rights reserved.
+PN 080101016200
+SN HX1001180500103
+HWVer V1.0
+FWVer R3.1.10.18Build4802
+Copyright (c), Unicore Communications Inc.
+All rights reserved.
+UM220-IV NL G1B1 COM1
+PN 080101016200
+SN HX1001180500103
+HWVer V1.0
+FWVer R3.1.10.18Build4802
+Copyright (c), Unicore Communications Inc.
+All rights reserved.
+UM220-IV NL G1B1 COM1
+PN 080101016200
+SN HX1001180500103
+HWVer V1.0
+FWVer R3.1.10.18Build4802
+Copyright (c), Unicore Communications Inc.
+All rights reserved.
+UM220-IV NL G1B1 COM1
+PN 080101016200
+SN HX1001180500103HWVer V1.0
+FWVer R3.1.10.18Build4802
+Copyright (c), Unicore Communications Inc.
+All rights reserved.
+PN 080101016200
+SN HX1001180500103
+HWVer V1.0
+FWVer R3.1.10.18Build4802
+Copyright (c), Unicore Communications Inc.
+All rights reserved.
+PN 080101016200
+SN HX1001180500103
+HWVer V1.0
+FWVer R3.1.10.18Build4802
+Copyright (c), Unicore Communications Inc.
+All rights reserved.
+UM220-IV NL G1B1 COM1
+PN 080101016200
+SN HX1001180500103
+HWVer V1.0
+FWVer R3.1.10.18Build4802
+Copyright (c), Unicore Communications Inc.
+All rights reserved.
+UM220-IV NL G1B1 COM1
+PN 080101016200
+SN HX1001180500103
+HWVer V1.0
+FWVer R3.1.10.18Build4802
+Copyright (c), Unicore Communications Inc.All rights reserved.
+UM220-IV NL G1B1 COM1
+PN 080101016200
+SN HX1001180500103
+HWVer V1.0
+FWVer R3.1.10.18Build4802
+Copyright (c), Unicore Communications Inc.
+All rights reserved.
+UM220-IV NL G1B1 COM1
+PN 080101016200
+SN HX1001180500103
+HWVer V1.0
+FWVer R3.1.10.18Build4802
+Copyright (c), Unicore Communications Inc.
+All rights reserved.
+UM220-IV NL G1B1 COM1
+PN 080101016200
+SN HX1001180500103
+HWVer V1.0
+FWVer R3.1.10.18Build4802
+Copyright (c), Unicore Communications Inc.
+All rights reserved.
+UM220-IV NL G1B1 COM1
+PN 080101016200
+SN HX1001180500103
+HWVer V1.0
+FWVer R3.1.10.18Build4802
+Copyright (c), Unicore Communications Inc.
+All rights reserved.
+UM220-IV NL G1B1 COM1
+PN 080101016200
+SN HX1001180500103
+HWVer V1.0
+FWVer R3.1.10.18Build4802
+Copyright (c), Unicore Communications Inc.
+All rights reserved.
+UM220-IV NL G1B1 COM1
+PN 080101016200
+SN HX1001180500103
+HWVer V1.0
+FWVer R3.1.10.18Build4802
+Copyright (c), Unicore Communications Inc.
+All rights reserved.
+UM220-IV NL G1B1 COM1
+PN 080101016200
+SN HX1001180500103
+HWVer V1.0
+FWVer R3.1.10.18Build4802
+Copyright (c), Unicore Communications Inc.
+All rights reserved.
+UM220-IV NL G1B1 COM1
+PN 080101016200
+SN HX1001180500103
+HWVer V1.0
+FWVer R3.1.10.18Build4802
+Copyright (c), Unicore Communications Inc.
+All rights reserved.
+UM220-IV NL G1B1 COM1
+PN 080101016200
+SN HX1001180500103
+HWVer V1.0
+FWVer R3.1.10.18Build4802
+Copyright (c), Unicore Communications Inc.
+All rights reserved.
+UM220-IV NL G1B1 COM1
+PN 080101016200
+SN HX1001180500103
+HWVer V1.0
+FWVer R3.1.10.18Build4802
+Copyright (c), Unicore Communications Inc.
+All rights reserved.
+UM220-IV NL G1B1 COM1
+PN 080101016200
+SN HX1001180500103
+HWVer V1.0
+FWVer R3.1.10.18Build4802
+Copyright (c), Unicore Communications Inc.
+All rights reserved.
+UM220-IV NL G1B1 COM1
+PN 080101016200
+SN HX1001180500103
+HWVer V1.0
+FWVer R3.1.10.18Build4802
+Copyright (c), Unicore Communications Inc.
+All rights reserved.
+UM220-IV NL G1B1 COM1
+PN 080101016200
+SN HX1001180500103
+HWVer V1.0FWVer R3.1.10.18Build4802
+Copyright (c), Unicore Communications Inc.
+All rights reserved.
+UM220-IV NL G1B1 COM1
+PN 080101016200
+SN HX1001180500103
+HWVer V1.0
+FWVer R3.1.10.18Build4802
+Copyright (c), Unicore Communications Inc.
+All rights reserved.
+UM220-IV NL G1B1 COM1
+PN 080101016200
+SN HX1001180500103
+HWVer V1.0
+FWVer R3.1.10.18Build4802
+Copyright (c), Unicore Communications Inc.
+All rights reserved.
+
+UM220-IV NL G1B1 COM1
+PN 080101016200
+SN HX1001180500103
+HWVer V1.0
+FWVer R3.1.10.18Build4802
+Copyright (c), Unicore Communications Inc.
+All rights reserved.
+
+UM220-IV NL G1B1 COM1
+PN 080101016200
+SN HX1001180500103
+HWVer V1.0
+FWVer R3.1.10.18Build4802
+Copyright (c), Unicore Communications Inc.
+All rights reserved.
+
+UM220-IV NL G1B1 COM1
+PN 080101016200
+SN HX1001180500103
+HWVer V1.0
+FWVer R3.1.10.18Build4802
+Copyright (c), Unicore Communications Inc.
+All rights reserved.
+
+UM220-IV NL G1B1 COM1
+PN 080101016200
+SN HX1001180500103
+HWVer V1.0
+FWVer R3.1.10.18Build4802
+Copyright (c), Unicore Communications Inc.
+All rights reserved.
+
+UM220-IV NL G1B1 COM1
+PN 080101016200
+SN HX1001180500103
+HWVer V1.0
+FWVer R3.1.10.18Build4802
+Copyright (c), Unicore Communications Inc.
+All rights reserved.
+
+UM220-IV NL G1B1 COM1
+PN 080101016200
+SN HX1001180500103
+HWVer V1.0
+FWVer R3.1.10.18Build4802
+Copyright (c), Unicore Communications Inc.
+All rights reserved.
+
+UM220-IV NL G1B1 COM1
+PN 080101016200
+SN HX1001180500103
+HWVer V1.0
+FWVer R3.1.10.18Build4802
+Copyright (c), Unicore Communications Inc.
+All rights reserved.
+UM220-IV NL G1B1 COM1
+PN 080101016200
+SN HX1001180500103
+HWVer V1.0
+FWVer R3.1.10.18Build4802
+Copyright (c), Unicore Communications Inc.
+All rights reserved.
+UM220-IV NL G1B1 COM1
+PN 080101016200
+SN HX1001180500103
+HWVer V1.0
+FWVer R3.1.10.18Build4802
+Copyright (c), Unicore Communications Inc.
+All rights reserved.
+UM220-IV NL G1B1 COM1
+PN 080101016200
+SN HX1001180500103
+HWVer V1.0
+FWVer R3.1.10.18Build4802
+Copyright (c), Unicore Communications Inc.
+All rights reserved.
+UM220-IV NL G1B1 COM1
+PN 080101016200
+SN HX1001180500103
+HWVer V1.0
+FWVer R3.1.10.18Build4802
+Copyright (c), Unicore Communications Inc.
+All rights reserved.
+UM220-IV NL G1B1 COM1
+PN 080101016200
+SN HX1001180500103
+HWVer V1.0
+FWVer R3.1.10.18Build4802
+Copyright (c), Unicore Communications Inc.
+All rights reserved.
+
+UM220-IV NL G1B1 COM1
+PN 080101016200
+SN HX1001180500103
+HWVer V1.0
+FWVer R3.1.10.18Build4802
+Copyright (c), Unicore Communications Inc.
+All rights reserved.
+
+UM220-IV NL G1B1 COM1
+PN 080101016200
+SN HX1001180500103
+HWVer V1.0
+FWVer R3.1.10.18Build4802Copyright (c), Unicore Communications Inc.
+All rights reserved.
+
+UM220-IV NL G1B1 COM1
+PN 080101016200
+SN HX1001180500103
+HWVer V1.0
+FWVer R3.1.10.18Build4802
+Copyright (c), Unicore Communications Inc.
+All rights reserved.
+UM220-IV NL G1B1 COM1
+PN 080101016200
+SN HX1001180500103
+HWVer V1.0
+FWVer R3.1.10.18Build4802
+Copyright (c), Unicore Communications Inc.
+All rights reserved.
+UM220-IV NL G1B1 COM1
+PN 080101016200
+SN HX1001180500103
+HWVer V1.0
+FWVer R3.1.10.18Build4802
+Copyright (c), Unicore Communications Inc.
+All rights reserved.
+
+UM220-IV NL G1B1 COM1
+PN 080101016200
+SN HX1001180500103
+HWVer V1.0
+FWVer R3.1.10.18Build4802
+Copyright (c), Unicore Communications Inc.
+All rights reserved.
+UM220-IV NL G1B1 COM1
+PN 080101016200
+SN HX1001180500103
+HWVer V1.0
+FWVer R3.1.10.18Build4802
+Copyright (c), Unicore Communications Inc.
+All rights reserved.
+UM220-IV NL G1B1 COM1
+PN 080101016200
+SN HX1001180500103
+HWVer V1.0
+FWVer R3.1.10.18Build4802
+Copyright (c), Unicore Communications Inc.
+All rights reserved.$GNRMC,172256.84,V,,,,,,,261218,,,N,V*1E
+UM220-IV NL G1B1 COM1
+PN 080101016200
+SN HX1001180500103
+HWVer V1.0
+FWVer R3.1.10.18Build4802
+Copyright (c), Unicore Communications Inc.
+All rights reserved.
+UM220-IV NL G1B1 COM1
+PN 080101016200
+SN HX1001180500103
+HWVer V1.0
+FWVer R3.1.10.18Build4802
+Copyright (c), Unicore Communications Inc.
+All rights reserved.
+UM220-IV NL G1B1 COM1
+PN 080101016200
+SN HX1001180500103
+HWVer V1.0
+FWVer R3.1.10.18Build4802
+Copyright (c), Unicore Communications Inc.
+All rights reserved.
+UM220-IV NL G1B1 COM1
+PN 080101016200SN HX1001180500103
+HWVer V1.0
+FWVer R3.1.10.18Build4802
+Copyright (c), Unicore Communications Inc.
+All rights reserved.
+UM220-IV NL G1B1 COM1
+PN 080101016200
+SN HX1001180500103
+HWVer V1.0
+FWVer R3.1.10.18Build4802
+Copyright (c), Unicore Communications Inc.
+All rights reserved.
+UM220-IV NL G1B1 COM1
+PN 080101016200
+SN HX1001180500103HWVer V1.0
+FWVer R3.1.10.18Build4802
+Copyright (c), Unicore Communications Inc.
+All rights reserved.
+
+UM220-IV NL G1B1 COM1
+PN 080101016200
+SN HX1001180500103HWVer V1.0
+FWVer R3.1.10.18Build4802
+Copyright (c), Unicore Communications Inc.
+All rights reserved.
